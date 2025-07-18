@@ -46,8 +46,8 @@ pip install numpy opencv-python matplotlib
 How to Run
 Clone the repository:
 
-git clone https://github.com/junaidshah2001/Linear-Transformations-Lab.git
-cd Linear-Transformations-Lab
+git clone https://github.com/junaidshah2001/Linear-Transformations
+cd Linear-Transformations
 
 Install the required packages (if you haven't already):
 
